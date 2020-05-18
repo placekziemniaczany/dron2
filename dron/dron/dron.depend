@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\user\desktop\dron\main.cpp
+	<iostream>
+
+1589495292 source:c:\users\user\desktop\dron\example.cpp
+	<iostream>
+	"Dr3D_gnuplot_api.hh"
+	<fstream>
+	<string>
+	"Bryla.hh"
+	"Prostopadloscian.hh"
+	"graniastoslup6.hh"
+	"dron.hh"
+	"ZbiorWierzcholkow.hh"
+	"Zbiornik.hh"
+
+1589147519 c:\users\user\desktop\dron\dr3d_gnuplot_api.hh
+	"Draw3D_api_interface.hh"
+	<list>
+	<map>
+	<utility>
+	<memory>
+	<mutex>
+	<thread>
+
+1589147519 c:\users\user\desktop\dron\draw3d_api_interface.hh
+	<vector>
+	<string>
+	<iostream>
+
+1589147519 source:c:\users\user\desktop\dron\dr3d_gnuplot_api.cpp
+	"Dr3D_gnuplot_api.hh"
+	<iostream>
+	<sstream>
+	<unistd.h>
+
+1588768831 source:c:\users\user\desktop\dron\lzespolona.cpp
+	"LZespolona.hh"
+	<cmath>
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<cmath>
+
+1588768832 c:\users\user\desktop\dron\lzespolona.hh
+	<iostream>
+
+1589147519 source:c:\users\user\desktop\dron\zbiorwierzcholkow.cpp
+	"ZbiorWierzcholkow.hh"
+
+1589147519 c:\users\user\desktop\dron\zbiorwierzcholkow.hh
+	<fstream>
+	"Wektor3D.hh"
+	<vector>
+	<iostream>
+
+1589147519 c:\users\user\desktop\dron\wektor3d.hh
+	"SWektor.hh"
+
+1589147519 c:\users\user\desktop\dron\swektor.hh
+	"rozmiar.h"
+	<iostream>
+	<cmath>
+
+1589147519 c:\users\user\desktop\dron\rozmiar.h
+	<cmath>
+	<cstdlib>
+
+1589488550 source:c:\users\user\desktop\dron\bryla.cpp
+	"Bryla.hh"
+
+1589491010 source:c:\users\user\desktop\dron\prostopadloscian.cpp
+	"Prostopadloscian.hh"
+
+1589495233 source:c:\users\user\desktop\dron\dron.cpp
+	"dron.hh"
+
+1589488557 c:\users\user\desktop\dron\bryla.hh
+	"ZbiorWierzcholkow.hh"
+	"SMacierz.hh"
+
+1589116259 source:c:\users\user\desktop\dron\scena.cpp
+	"Scena.hh"
+
+1589488548 c:\users\user\desktop\dron\prostopadloscian.hh
+	"Bryla.hh"
+	"InterfejsRysowania.hh"
+	"ZbiorWierzcholkow.hh"
+
+1589375825 c:\users\user\desktop\dron\smacierz.hh
+	"SWektor.hh"
+	<cmath>
+	<math.h>
+	<iostream>
+
+1588929870 source:c:\users\user\desktop\dron\macierzob.cpp
+	"SMacierz.hh"
+	<cmath>
+
+1588929843 c:\users\user\desktop\dron\macierzob.hh
+
+1589147519 c:\users\user\desktop\dron\interfejsrysowania.hh
+	"Dr3D_gnuplot_api.hh"
+
+1589488591 c:\users\user\desktop\dron\graniastoslup6.hh
+	"Bryla.hh"
+	"InterfejsRysowania.hh"
+	"ZbiorWierzcholkow.hh"
+
+1589491214 source:c:\users\user\desktop\dron\graniastoslup6.cpp
+	"graniastoslup6.hh"
+
+1589495248 c:\users\user\desktop\dron\dron.hh
+	"Prostopadloscian.hh"
+	"graniastoslup6.hh"
+	<cmath>
+
+1589136230 c:\users\user\desktop\dron\scena.hh
+	<iostream>
+	"dron.hh"
+
+1589147519 source:c:\users\user\desktop\dron\zbiornik.cpp
+	"Zbiornik.hh"
+
+1589147519 c:\users\user\desktop\dron\zbiornik.hh
+	<iostream>
+	"dron.hh"
+
